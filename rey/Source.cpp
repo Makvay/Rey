@@ -86,7 +86,7 @@ int main()
 						{ 0,0, (float)playerTexture.width, (float) playerTexture.height },
 						playerRect,
 			{ playerRect.width / 2, playerRect.height / 2},
-			rot * RAD2DEG, RED
+			rot * RAD2DEG, WHITE
 			);
 
 		for (int i = 0; i < bullets.size(); i++ )
