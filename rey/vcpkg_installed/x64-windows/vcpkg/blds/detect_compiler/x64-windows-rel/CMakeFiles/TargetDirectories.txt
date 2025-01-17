@@ -1,0 +1,2 @@
+C:/Users/pc/source/repos/rey/rey/vcpkg_installed/x64-windows/vcpkg/blds/detect_compiler/x64-windows-rel/CMakeFiles/edit_cache.dir
+C:/Users/pc/source/repos/rey/rey/vcpkg_installed/x64-windows/vcpkg/blds/detect_compiler/x64-windows-rel/CMakeFiles/rebuild_cache.dir
